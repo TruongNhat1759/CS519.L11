@@ -1,1 +1,1 @@
-# CS519.L11 Sở hữu trí tuệ QT-SUM01
+# CS519.L11 PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC
